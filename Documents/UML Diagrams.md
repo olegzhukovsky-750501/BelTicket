@@ -26,7 +26,7 @@
 <a name="use_case_diagram"/>
 
 # 1. Диаграмма вариантов использования
-![Диаграмма вариантов использования](../../Images/Diagrams/UseCaseDiagram.jpg)  
+![Диаграмма вариантов использования](../Images/Diagrams/UseCaseDiagram.jpg)  
 
 <a name="actors"/>
 
@@ -176,25 +176,25 @@
 
 ### 2.1 Регистрация
 
-![Диаграмма активности (регистрация)](../../Images/Diagrams/RegistrationDiagram.jpg)  
+![Диаграмма активности (регистрация)](../Images/Diagrams/RegistrationDiagram.jpg)  
 
 <a name = "sign_in_activity"/>
 
 ### 2.2 Вход в учётную запись
 
-![Диаграмма активности (вход в учётную запись)](../../Images/Diagrams/SignInDiagram.jpg)  
+![Диаграмма активности (вход в учётную запись)](../Images/Diagrams/SignInDiagram.jpg)  
 
 <a name = "search_tickets_activity"/>
 
 ### 2.3 Поиск билетов
 
-![Диаграмма активности (поиск билетов)](../../Images/Diagrams/SearchTicketsDiagram.jpg)
+![Диаграмма активности (поиск билетов)](../Images/Diagrams/SearchTicketsDiagram.jpg)
 
 <a name = "buy_tickets_activity"/>
 
 ### 2.4 Покупка билетов
 
-![Диаграмма активности (покупка билетов)](../../Images/Diagrams/BuyTicketsDiagram.jpg)
+![Диаграмма активности (покупка билетов)](../Images/Diagrams/BuyTicketsDiagram.jpg)
 
 <a name = "sequence_diagrams"/>
 
@@ -204,25 +204,25 @@
 
 ### 2.1 Регистрация
 
-![Диаграмма последовательности (регистрация)](../../Images/Diagrams/RegistrationSeqDiagram.jpg)  
+![Диаграмма последовательности (регистрация)](../Images/Diagrams/RegistrationSeqDiagram.jpg)  
 
 <a name = "sign_in_sequence"/>
 
 ### 2.2 Вход в учётную запись
 
-![Диаграмма последовательности (вход в учётную запись)](../../Images/Diagrams/SignInSeqDiagram.jpg)  
+![Диаграмма последовательности (вход в учётную запись)](../Images/Diagrams/SignInSeqDiagram.jpg)  
 
 <a name = "search_tickets_sequence"/>
 
 ### 2.3 Поиск билетов
 
-![Диаграмма последовательности (поиск билетов)](../../Images/Diagrams/SearchTicketsSeqDiagram.jpg)
+![Диаграмма последовательности (поиск билетов)](../Images/Diagrams/SearchTicketsSeqDiagram.jpg)
 
 <a name = "buy_tickets_sequeunce"/>
 
 ### 2.4 Покупка билетов
 
-![Диаграмма последовательности (покупка билетов)](../../Images/Diagrams/BuyTicketsSeqDiagram.jpg)
+![Диаграмма последовательности (покупка билетов)](../Images/Diagrams/BuyTicketsSeqDiagram.jpg)
 
 
 
