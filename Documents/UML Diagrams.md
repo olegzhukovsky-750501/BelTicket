@@ -218,7 +218,7 @@
 
 ![Диаграмма последовательности (поиск билетов)](../Images/Diagrams/SearchTicketsSeqDiagram.jpg)
 
-<a name = "buy_tickets_sequeunce"/>
+<a name = "buy_tickets_sequence"/>
 
 ### 2.4 Покупка билетов
 
