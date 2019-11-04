@@ -23,7 +23,7 @@
    3.3 [Найти билеты](#search_tickets_sequence)  
    3.4 [Купить билеты](#buy_tickets_sequence)  
 4. [Диаграммы состояний](#state_diagrams)  
-   4.1 [Зарегистрировать](registration_state)  
+   4.1 [Зарегистрировать](#registration_state)  
    4.2 [Войти в учётную запись](#sign_in_state)  
    4.3 [Купить билеты](#buy_tickets_state)  
 5. [Диаграмма классов](#class_diagram)  
