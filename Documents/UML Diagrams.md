@@ -22,7 +22,13 @@
    3.2 [Войти в учётную запись](#sign_in_sequence)  
    3.3 [Найти билеты](#search_tickets_sequence)  
    3.4 [Купить билеты](#buy_tickets_sequence)  
-
+4. [Диаграммы состояний](#state_diagrams)  
+   4.1 [Зарегистрировать](registration_state)  
+   4.2 [Войти в учётную запись](#sign_in_state)  
+   4.3 [Купить билеты](#buy_tickets_state)  
+5. [Диаграмма классов](#class_diagram)  
+6. [Диаграмма компонентов](#component_diagram)  
+7. [Диаграмма развёртывания](#deployment_diagram)  
 <a name="use_case_diagram"/>
 
 # 1. Диаграмма вариантов использования
@@ -202,27 +208,67 @@
 
 <a name = "registration_sequence"/>
 
-### 2.1 Зарегистрировать
+### 3.1 Зарегистрировать
 
 ![Диаграмма последовательности (зарегистрировать)](../Images/Diagrams/RegistrationSeqDiagram.jpg)  
 
 <a name = "sign_in_sequence"/>
 
-### 2.2 Войти в учётную запись
+### 3.2 Войти в учётную запись
 
 ![Диаграмма последовательности (войти в учётную запись)](../Images/Diagrams/SignInSeqDiagram.jpg)  
 
 <a name = "search_tickets_sequence"/>
 
-### 2.3 Найти билеты
+### 3.3 Найти билеты
 
 ![Диаграмма последовательности (найти билеты)](../Images/Diagrams/SearchTicketsSeqDiagram.jpg)
 
 <a name = "buy_tickets_sequence"/>
 
-### 2.4 Купить билеты
+### 3.4 Купить билеты
 
 ![Диаграмма последовательности (купить билеты)](../Images/Diagrams/BuyTicketsSeqDiagram.jpg)
+
+<a name = "state_diagrams"/>
+
+## 4. Диаграммы состояний
+
+<a name = "registration_state"/>
+
+### 4.1 Зарегистрировать
+
+![Диаграмма состояния(зарегистрировать)](../Images/Diagrams/RegistrationStateDiagram.jpg)  
+
+<a name = "sign_in_state"/>
+
+### 4.2 Войти в учётную запись
+
+![Диаграмма состояния (войти в учётную запись)](../Images/Diagrams/SignInStateDiagram.jpg)  
+
+<a name = "buy_tickets_state"/>
+
+### 4.3 Купить билеты
+
+![Диаграмма состояния (купить билеты)](../Images/Diagrams/BuyTicketsStateDiagram.jpg)
+
+<a name = "class_diagram"/>
+
+## 5. Диаграмма классов
+
+![Диаграмма классов](../Images/Diagrams/ClassDiagram.jpg)
+
+<a name = "component_diagram"/>
+
+## 6. Диаграмма компонентов
+
+![Диаграмма компонентов](../Images/Diagrams/ComponentDiagram.jpg)
+
+<a name = "deployment_diagram"/>
+
+## 7. Диаграмма развёртывания
+
+![Диаграмма развёртывания](../Images/Diagrams/DeploymentDiagram.jpg)
 
 
 

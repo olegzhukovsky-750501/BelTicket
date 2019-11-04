@@ -6,5 +6,5 @@
 Серверная часть: MySQL, Node.js
 # Содержание
 1. [Документация](Documents)  
-1.1 [Спецификация требований](Documents/Requirements/Requirements%20Document.md)  
+1.1 [Спецификация требований](Documents/Requirements/Requirements%20Document.md) 
 1.2 [UML Диаграммы](Documents/UML%20Diagrams.md)
