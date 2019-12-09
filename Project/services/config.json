@@ -1,0 +1,11 @@
+{
+    "mongoDB": "mongodb://localhost/bus",
+    "emailClient": {
+        "host": "smtp.gmail.com",
+        "email": "lecongjung@gmail.com",
+        "auth": {
+            "user": "lecongjung@gmail.com",
+            "pass": "azDoFk1zuS6YesMc1"
+        }
+    }
+}
