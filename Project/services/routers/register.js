@@ -20,8 +20,7 @@ router.post('/register', async (req, res) => {
         if (exist) {
             res.status(409).json({ exist: true })
         } else {
-            const discount = await client.validateNIC(body.nic)
-            var user = new UserModel({ ...body, discount: discount })
+            var user = new UserModel({ ...body})
             var result = await user.save()
             res.status(200).json(result)
         }
