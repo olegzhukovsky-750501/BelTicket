@@ -1,0 +1,43 @@
+use bus;
+
+db.routes.insert({name:"main-line",route:[{name:"Minsk", fair:60},
+{name:"Warsaw", fair:20},
+{name:"Hrodna", fair:40},
+{name:"Lida", fair:60},
+{name:"Brest", fair:80},
+{name:"Homel", fair:100},
+{name:"Moscow", fair:120},
+{name:"Saint-Petersburg", fair:140},
+{name:"Berlin", fair:160},
+{name:"Dresden", fair:180}]});
+
+db.schedules.insert({time:"05.00 am"});
+db.schedules.insert({time:"06.00 am"});
+db.schedules.insert({time:"09.30 am"});
+db.schedules.insert({time:"10.00 am"});
+db.schedules.insert({time:"10.30 am"});
+db.schedules.insert({time:"11.00 am"});
+db.schedules.insert({time:"12.00 pm"});
+db.schedules.insert({time:"1.30 pm"});
+db.schedules.insert({time:"02.00 pm"});
+db.schedules.insert({time:"03.30 pm"});
+db.schedules.insert({time:"04.00 pm"});
+db.schedules.insert({time:"05.30 pm"});
+db.schedules.insert({time:"07.00 pm"});
+db.schedules.insert({time:"11.00 pm"});
+
+db.cards.insert({card:"1234123412341234", cvc:"123" ,exp:"12/12"});
+db.cards.insert({card:"1111111111111111", cvc:"111" ,exp:"11/11"});
+
+
+
+
+
+
+
+
+
+
+
+
+
