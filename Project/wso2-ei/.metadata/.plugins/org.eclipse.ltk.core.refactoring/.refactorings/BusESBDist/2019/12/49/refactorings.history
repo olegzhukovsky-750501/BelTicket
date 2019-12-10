@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BusESBDist/RailwayESBDist.iml&apos; to &apos;BusESBDist.iml&apos;" description="Rename resource &apos;RailwayESBDist.iml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="RailwayESBDist.iml" name="BusESBDist.iml" stamp="1575836528811" updateReferences="true"/>
+</session>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\Универ\5 СЕМЕСТР\ТРиТПО\modif\railway-reservation-system-master\railway-reservation-system-master\wso2-ei"/>
+		<item value="D:\Универ\5 СЕМЕСТР\ТРиТПО\railway-reservation-system-master\wso2-ei"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+	</section>
+</section>
